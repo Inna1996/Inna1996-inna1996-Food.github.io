@@ -1,0 +1,70 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/vegy.jpg",
+      "altimg": "vegy",
+      "title": "Fitness menu",
+      "descr": "The Fitness menu is a new approach to cooking: more fresh vegetables and fruits. A product of active and healthy people. This is a completely new product with an optimal price and high quality!",
+      "price": 9
+    },
+    {
+      "img": "img/tabs/post.jpg",
+      "altimg": "post",
+      "title": "Lean menu",
+      "descr": "The Lean menu is a careful selection of ingredients: complete absence of animal products, milk from almonds, oats, coconut or buckwheat, the right amount of protein from tofu and imported vegetarian steaks.",
+      "price": 14
+    },
+    {
+      "img": "img/tabs/elite.jpg",
+      "altimg": "elite",
+      "title": "Menu 'Premium'",
+      "descr": "In the 'Premium' menu, we use not only beautiful packaging design, but also high-quality dishes. Red fish, seafood, fruits - restaurant menu without going to the restaurant! ",
+      "price": 21
+    }
+  ],
+  "requests": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "name": "фыв",
+      "phone": "23423",
+      "id": 12
+    },
+    {
+      "name": "ваы",
+      "phone": "2234234",
+      "id": 13
+    }
+  ]
+}
