@@ -1,4 +1,4 @@
-# **Final project**
+# **Food project**
 >
 Hello! This is my JavaScript project. This is a fitness food website that showcases my skills in JavaScript (JS6).
 
